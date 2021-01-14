@@ -1,0 +1,21 @@
+a {
+    width: 200px;
+    height: 40px;
+    display: block;
+    text-decoration: none;
+    background-color: gray;
+    font-size: 20px;
+    color: #fff;
+    text-indent: 2em;
+    line-height: 40px;
+}
+
+a:visited{
+    background-color: greenyellow;
+}
+a:hover{
+    background-color: orange;
+}
+a:active{
+    background-color: crimson;
+}

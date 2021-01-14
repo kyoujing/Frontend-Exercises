@@ -1,0 +1,21 @@
+.nav {
+    height:41px;
+    border-top: 3px solid orange;
+    border-bottom: 3px solid white;
+    background-color: pink;
+    line-height: 41px;
+}
+
+.nav a{
+    display: inline-block;
+    height: 41px;
+    padding: 0 20px;
+    font: normal 700 20px/41px "Times New Roman";
+    color: #6488eb;
+    text-decoration: none;
+}
+
+.nav a:hover{
+    background-color: #dbedff;
+    color: orange;
+}
